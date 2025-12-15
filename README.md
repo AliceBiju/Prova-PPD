@@ -27,7 +27,7 @@ O projeto foi dividido em **quatro implementações práticas**, cada uma aborda
 ## Estrutura do Repositório
 
 ```
-prova-jantar-filosofos/
+Prova-PPD/
 ├── README.md                 
 ├── RELATORIO.md              # Relatório comparativo (Tarefa 5)
 │
